@@ -3,7 +3,7 @@
 <hr>
 <p>
 
-©版权所有 (C) [2424] 刘小圳
+©版权所有 (C) [2024] 刘小圳
 <br>
 1.特此授权获得本软件及相关文档文件（统称为“软件”），在遵守以下条件的前提下，非独占地免费使用权：
 <br>
@@ -31,7 +31,7 @@
 <div lang="en">
     <p style="color: red;">The Chinese version of the Software Agreement and the English version of the Agreement have the same legal effect, and in case of conflict, the Chinese version shall prevail.</p>
     <p>
-        © Copyright (C) [2424] Liu Xiaozhen
+        © Copyright (C) [2024] Liu Xiaozhen
 <br>
 1. The Software and related documentation (collectively, the "Software") are hereby authorized to be licensed, on a non-exclusive basis, free of charge, subject to the following conditions:
 <br>
